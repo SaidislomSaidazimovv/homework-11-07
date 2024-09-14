@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(180deg, #3333A3 5.09%, #121212 33.4%);
+    overflow-x: hidden;
+}
+
+.card-bg {
+    background-color: rgba(255, 255, 255, 0.04);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+::-webkit-skrollbar {
+    background: ;
+}
